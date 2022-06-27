@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\new\C-Sharp-Assignment\Prime\Prime\bin\Debug\Prime.exe.config
+C:\Users\hp\Documents\new\C-Sharp-Assignment\Prime\Prime\bin\Debug\Prime.exe
+C:\Users\hp\Documents\new\C-Sharp-Assignment\Prime\Prime\bin\Debug\Prime.pdb
+C:\Users\hp\Documents\new\C-Sharp-Assignment\Prime\Prime\obj\Debug\Prime.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\new\C-Sharp-Assignment\Prime\Prime\obj\Debug\Prime.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Documents\new\C-Sharp-Assignment\Prime\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\new\C-Sharp-Assignment\Prime\Prime\obj\Debug\Prime.exe
+C:\Users\hp\Documents\new\C-Sharp-Assignment\Prime\Prime\obj\Debug\Prime.pdb
